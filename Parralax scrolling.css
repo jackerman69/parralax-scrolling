@@ -1,0 +1,86 @@
+.scroll {
+  
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background: linear-gradient(35deg, #000000, #d3d3d3);
+    border: 5px solid black;
+    border-radius: 1px;
+    box-shadow: 0 9px black;
+  }
+  
+  .scroll:hover {background-color: #3e8e41}
+  
+  .scroll:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
+  #btn {
+     background: gray;
+  }
+  
+  a {
+     color: inherit;
+     
+  }
+  a:hover{
+     color: black;
+  }
+  .parallax {
+     background-image: url("https://static.boredpanda.com/blog/wp-content/uploads/2015/06/animals-children-black-and-white-watercolor-art-elicia-edijanto-fb2__700.jpg");
+  
+     min-height: 600px;
+  
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+  }
+  
+  .box1 {
+     color: white;
+     background: linear-gradient(35deg, #000000, #d3d3d3);
+     text-align: center;
+     padding: 50px 80px;
+  }
+  
+  .img2 {
+     background-image: url("https://images.saatchiart.com/saatchi/314125/art/3108445/2178336-OCOSOSJR-7.jpg");
+     min-height: 500px;
+  
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+  }
+  
+  .box2 {
+     color: white;
+     background: linear-gradient(35deg, #000000, #d3d3d3);
+     text-align: center;
+     padding: 50px 80px;
+  }
+  #img3 {
+     background-image: url("https://wallpapercave.com/wp/JdJ3Aze.jpg");
+     min-height: 600px;
+  
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+  }
+  
+  .box3 {
+     text-align: center;
+     background-color: #111;
+     color: #fff;
+     padding: 18px;
+     font-size: 25px;
+     letter-spacing: 10px;
+  }
+  
